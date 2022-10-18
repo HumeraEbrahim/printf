@@ -1,2 +1,2 @@
-0. Im not going anywhere. You can print that wherever you want to. Im here and Im a Spur for life > README.md
-echo 0. Im not going anywhere. You can print that wherever you want to. Im here and Im a Spur for life
+Education is when you read the fine print. Experience is what you get if you dont > README.md
+echo Education is when you read the fine print. Experience is what you get if you dont
