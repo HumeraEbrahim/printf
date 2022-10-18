@@ -66,4 +66,3 @@ void p_uint(unsigned int n, int *count)
 		fact /= 10;
 	}
 }
-
