@@ -34,4 +34,3 @@ int _printf(const char *format, ...)
 	return (n_printed);
 
 }
-
